@@ -7,4 +7,5 @@ import (
 
 func PrintNowTime() {
 	fmt.Println(time.Now())
+	fmt.Println("time")
 }
